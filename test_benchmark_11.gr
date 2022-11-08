@@ -1,0 +1,21 @@
+grid                 800  415  9
+vertical capacity    0  40  0  40  0  44  0  48  0
+horizontal capacity  0  0  40  0  44  0  44  0  48
+minimum width        1  1  1  1  2  2  2  4  4
+minimum spacing      1  1  1  1  2  2  2  4  4
+via spacing          0  0  0  0  0  0  0  0  0
+0  0  32  40
+
+num net  3
+n0  0  2  1
+8832  4288  1
+8954  4893  1
+n1  1  2  1
+8238  4702  1
+8501  4713  1
+n2  2  2  1
+9015  5072  1
+9069  5109  1
+
+
+num blockage  0
